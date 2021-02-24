@@ -12,7 +12,6 @@ describe('HelloWorld.vue', () => {
   })
 })
 
-
 describe('TestComponent.vue', () => {
   it('should pass when rendering slots', () => {
     const title = '<span>Title</span>'
